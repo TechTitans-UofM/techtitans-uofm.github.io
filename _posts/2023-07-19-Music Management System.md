@@ -8,28 +8,25 @@ date: 2023-07-19
 *Photo taken by [IgorVetushko](https://create.vista.com/portfolio-photos/12982378/)*
 
 ## Our Vision
+
+[![Vision Statement](https://img.youtube.com/vi/HZR3c4oYzKo/0.jpg)](https://www.youtube.com/watch?v=HZR3c4oYzKo)
+
 The Tech Titans Music Management System (TTMMS) offers a comprehensive range of features to enhance the music listening experience for users who own music stored on their devices. *TTMMS aims to revolutionize music management by providing a user-friendly option for users to improve their music listening experience through informed playlist creation employing detailed tracked listening statistics and an intuitive song queue*.
 
 Meticulously, TTMMS is designed to offer a user-friendly and intuitive experience. It caters to music enthusiasts of all ages and backgrounds who own music on their devices, providing exceptional control and organization of music.
 
 TTMMS surpasses the capabilities of simple music players by enabling users to easily create playlists and gain valuable insights into their listening habits through detailed tracking of listening statistics of each song. By reporting detailed listening statistics, TTMMS empowers users to make informed decisions when curating playlists for various activities, reducing the need to skip tracks and ensuring uninterrupted listening enjoyment.  For users who are not content on creating a playlist, TTMMS also offers an intuitive song queue, minimizing the effort for users to begin enjoying a temporary customized collection of continuous music.
 
-The initial release of TTMMS focuses on offline functionality, with future iterations planned to introduce additional song-editing options such as remixes and a network feature that allows sharing playlists, showcasing listening statistics among users, and intelligent genre discovery.  Moreover, TTMMS plans to offer versatile sound-shaping options, allowing users to tailor their music to their preferences by adjusting audio settings such as bass, treble, and tempo. These personalized settings are envisioned to be saved and persist across playbacks, ensuring a consistent and optimized audio experience without permanently modifying the original music files.  Finally, TTMMS intends to go beyond simple randomized music recommendation systems by harnessing machine learning to suggest new music genres based on the user’s existing music collection, fostering meaningful musical exploration and discovery.
+The initial release of TTMMS focuses on offline functionality, with future iterations planned to introduce additional song-editing options such as remixes and a network feature that allows sharing playlists, showcasing listening statistics among users, and intelligent genre discovery.  Moreover, TTMMS plans to offer versatile sound-shaping options, allowing users to tailor their music to their preferences by adjusting audio settings such as bass, treble, and tempo. These personalized settings are envisioned to be saved and persist across playbacks, ensuring a consistent and optimized audio experience without permanently modifying the original music files.  Finally, TTMMS intends to go beyond simple randomized music recommendation systems by harnessing intelligent methods to suggest new music genres based on the user’s existing music collection, fostering meaningful musical exploration and discovery.
 
 The success of TTMMS will be measured by conducting a comprehensive user survey, aiming for a satisfaction rate of at least 50% among users who report a reduction in song skipping when using playlists generated from TTMMS's statistical insights. Additionally, at least 50% of users must find the statistical information provided by TTMMS helpful in making meaningful choices when creating playlists. Finally, at least 25% of survey participants must indicate the song queue offered a convenient and effortless option for quick enjoyment of continuous music. By attaining these objectives, TTMMS seeks to establish itself as an indispensable solution for music management, meeting the diverse needs of music enthusiasts across the globe.
 
-## Intended Users
-Are you often faced with the challenge of choosing which songs to include in your playlists, struggling to curate the perfect mix that suits your mood and preferences?  Have you ever wished certain songs had a stronger bass to elevate your listening experience to a whole new level?  Do you find yourself frequently skipping songs when listening to your music, or if you're tired of your current music collection and yearning to explore new genres, but uncertain about where to start?  Look no further as TTMMS is the ideal application for you!
-
-Whether you are a music enthusiast seeking variety and fresh discoveries or someone who craves an effortless and enjoyable way to craft personalized playlists, TTMMS caters to all your musical needs and desires. Say goodbye to music monotony and embrace the wonder of TTMMS!
 
 ## TTMMS v3.0.0 Features
 
 ### Song Search
 
 ### Search Filter
-
-### Alphabetical Search Result Sort
 
 ### Add/Remove Songs
 
@@ -41,7 +38,7 @@ Whether you are a music enthusiast seeking variety and fresh discoveries or some
 
 ### Play Music
 
-### Basic Music Player Funtions
+### Basic Music Player Functions
 
 ### Favourites Playlist
 
@@ -54,6 +51,7 @@ Stay tuned for these following features in a future release:
 - Audio Settings Customization
 - Location-based Listening Statistics
 - Genre Recommendation
+- Alphabetically Search Result Sorting
 
 
 ## Restrospective
