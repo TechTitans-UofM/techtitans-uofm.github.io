@@ -9,7 +9,7 @@ date: 2023-07-19
 
 ## Our Vision
 
-[![Vision Statement](https://img.youtube.com/vi/HZR3c4oYzKo/0.jpg)](https://www.youtube.com/watch?v=HZR3c4oYzKo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZR3c4oYzKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The Tech Titans Music Management System (TTMMS) offers a comprehensive range of features to enhance the music listening experience for users who own music stored on their devices. *TTMMS aims to revolutionize music management by providing a user-friendly option for users to improve their music listening experience through informed playlist creation employing detailed tracked listening statistics and an intuitive song queue*.
 
