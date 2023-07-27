@@ -23,11 +23,16 @@ The success of TTMMS will be measured by conducting a comprehensive user survey,
 
 
 ## TTMMS v3.0.0 Features
+### Play Music
+The ability for users to control the playing of their music. 
+> This feature is showcased extensively in various other feature videos.
+{: .prompt-info }
+
 
 ### Song Search & Filter
 The ability for users to search for songs filtered by song name, artist, or genre.
-> {: .prompt-info }
-The following video showcases both the Song Search and Song Filter features. 
+> The following video showcases both the Song Search and Song Filter features. 
+{: .prompt-info }
 
 {% include embed/youtube.html id='HyZA082Js9c' %}
 
@@ -38,6 +43,11 @@ The ability for users to add or remove songs from their music library.
 ### Listening Statistics
 The ability for users to view tracked listening statistics of each song.
 {% include embed/youtube.html id='g4MAfDaXNBo' %}
+
+### Basic Music Player Functions
+The ability for users to control the order music is played and mark a song as a favourite.
+> This feature is showcased in the Playlist Creation feature video. 
+{: .prompt-info }
 
 ### Playlist Creation
 The ability for users to create personalized playlists.
