@@ -28,10 +28,9 @@ The ability for users to control the playing of their music.
 > This feature is showcased extensively in various other feature videos.
 {: .prompt-info }
 
-
 ### Song Search & Filter
 The ability for users to search for songs filtered by song name, artist, or genre.
-> The following video showcases both the Song Search and Song Filter features. 
+> The following video showcases both the Song Search and Song Filter feature. 
 {: .prompt-info }
 
 {% include embed/youtube.html id='HyZA082Js9c' %}
@@ -46,20 +45,20 @@ The ability for users to view tracked listening statistics of each song.
 
 ### Basic Music Player Functions
 The ability for users to control the order music is played and mark a song as a favourite.
-> This feature is showcased in the Playlist Creation feature video. 
+> This feature is showcased in the Playlist Creation and Favourites Playlist feature videos. 
 {: .prompt-info }
 
 ### Playlist Creation
 The ability for users to create personalized playlists.
 {% include embed/youtube.html id='2u47CyFr0PQ' %}
 
-### Song Queue
-The ability for users to add songs to a queue of continually playing music.
-{% include embed/youtube.html id='nUs6X-VgG7I' %}
-
 ### Favourites Playlist
 The ability for users to have a playlist that contains all their favourite songs.
 {% include embed/youtube.html id='PeD-VLEnbGE' %}
+
+### Song Queue
+The ability for users to add songs to a queue of continually playing music.
+{% include embed/youtube.html id='nUs6X-VgG7I' %}
 
 ### Music Library Overview
 The ability for users to receive a detailed informational breakdown of their song library.
@@ -110,8 +109,4 @@ Moreover, we have recognized the importance of setting aside our egos and priori
 We have gleaned valuable lessons from this project, and we are eager to apply these newfound insights in our future endeavors. By incorporating meticulous planning, comprehensive testing, and a commitment to excellence, we aim to elevate our team's performance and deliver even more successful projects.
 
 ## Contributors
-
-|     Itay Nudel | Demessie Amede |    Sam Iezzi | Jason Zhu  |
-|:-------------:|:--------------:|:------------:|:-------------:|
-|   Cell 1      |    Cell 2      | Cell 3       |               |
-|   Cell 4      |    Cell 5      | Cell 6       |               |
+![Intro Picture](https://raw.githubusercontent.com/TechTitans-UofM/techtitans-uofm.github.io/main/assets/contributions.png)
