@@ -26,7 +26,9 @@ The success of TTMMS will be measured by conducting a comprehensive user survey,
 
 ### Song Search & Filter
 The ability for users to search for songs filtered by song name, artist, or genre.
-{: .prompt-info } The following video showcases both the Song Search and Song Filter features.
+> {: .prompt-info }
+The following video showcases both the Song Search and Song Filter features. 
+
 {% include embed/youtube.html id='HyZA082Js9c' %}
 
 ### Add/Remove Songs
