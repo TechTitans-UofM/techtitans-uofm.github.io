@@ -109,4 +109,4 @@ Moreover, we have recognized the importance of setting aside our egos and priori
 We have gleaned valuable lessons from this project, and we are eager to apply these newfound insights in our future endeavors. By incorporating meticulous planning, comprehensive testing, and a commitment to excellence, we aim to elevate our team's performance and deliver even more successful projects.
 
 ## Contributors
-![Intro Picture](https://raw.githubusercontent.com/TechTitans-UofM/techtitans-uofm.github.io/main/assets/contributions.png)
+![Intro Picture](https://raw.githubusercontent.com/TechTitans-UofM/techtitans-uofm.github.io/main/assets/contributors.png)
