@@ -9,7 +9,7 @@ date: 2023-07-19
 
 ## Our Vision
 
-{% include embed/youtube.html id='HZR3c4oYzKo' %}
+{% include embed/youtube.html id='hQCMdEf1P78' %}
 
 The Tech Titans Music Management System (TTMMS) offers a comprehensive range of features to enhance the music listening experience for users who own music stored on their devices. *TTMMS aims to revolutionize music management by providing a user-friendly option for users to improve their music listening experience through informed playlist creation employing detailed tracked listening statistics and an intuitive song queue*.
 
@@ -40,7 +40,7 @@ The ability for users to view tracked listening statistics of each song.
 The ability for users to create personalized playlists.
 {% include embed/youtube.html id='2u47CyFr0PQ' %}
 
-### Music Queue
+### Song Queue
 The ability for users to add songs to a queue of continually playing music.
 {% include embed/youtube.html id='nUs6X-VgG7I' %}
 
@@ -48,9 +48,13 @@ The ability for users to add songs to a queue of continually playing music.
 The ability for users to have a playlist that contains all their favourite songs.
 {% include embed/youtube.html id='PeD-VLEnbGE' %}
 
-### Song Library Overview
+### Music Library Overview
 The ability for users to receive a detailed informational breakdown of their song library.
 {% include embed/youtube.html id='jjpA9Il7SUk' %}
+
+### Recently Played Songs
+The ability for users to view a list of recently played songs.
+{% include embed/youtube.html id='hPrPwB297EQ' %}
 
 ## Future Features
 Stay tuned for these following features in a future release:
@@ -62,7 +66,7 @@ Stay tuned for these following features in a future release:
 
 ## Restrospective
 
-### How did the project change from your initial (iteration 0) vision or stories, or did it work out as predicted?
+### How did the project change from your initial (Iteration 0) vision or stories, or did it work out as predicted?
 
 {% include embed/youtube.html id='lPDxJdj9HBM' %}
 
@@ -94,7 +98,7 @@ We have gleaned valuable lessons from this project, and we are eager to apply th
 
 ## Contributors
 
-| Right-aligned | Center-aligned | Left-aligned |
-| -------------:|:--------------:|:------------ |
-|   Cell 1      |    Cell 2      | Cell 3       |
-|   Cell 4      |    Cell 5      | Cell 6       |
+|     Itay Nudel | Demessie Amede |    Sam Iezzi | Jason Zhu  |
+|:-------------:|:--------------:|:------------:|:-------------:|
+|   Cell 1      |    Cell 2      | Cell 3       |               |
+|   Cell 4      |    Cell 5      | Cell 6       |               |
