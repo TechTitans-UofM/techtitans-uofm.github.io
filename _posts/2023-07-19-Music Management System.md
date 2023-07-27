@@ -15,7 +15,7 @@ The Tech Titans Music Management System (TTMMS) offers a comprehensive range of 
 
 Meticulously, TTMMS is designed to offer a user-friendly and intuitive experience. It caters to music enthusiasts of all ages and backgrounds who own music on their devices, providing exceptional control and organization of music.
 
-TTMMS surpasses the capabilities of simple music players by enabling users to easily create playlists and gain valuable insights into their listening habits through detailed tracking of listening statistics of each song. By reporting detailed listening statistics, TTMMS empowers users to make informed decisions when curating playlists for various activities, reducing the need to skip tracks and ensuring uninterrupted listening enjoyment.  For users who are not content on creating a playlist, TTMMS also offers an intuitive song queue, minimizing the effort for users to begin enjoying a temporary customized collection of continuous music.
+TTMMS surpasses the capabilities of simple music players by enabling users to easily create playlists and gain valuable insights into their listening habits through detailed tracking of listening statistics of each song. By reporting detailed listening statistics, TTMMS empowers users to make informed decisions when curating playlists for various activities, reducing the need to skip tracks and ensuring uninterrupted listening enjoyment.  For users who are not content with creating a playlist, TTMMS also offers an intuitive song queue, minimizing the effort for users to begin enjoying a temporary customized collection of continuous music.
 
 The initial release of TTMMS focuses on offline functionality, with future iterations planned to introduce additional song-editing options such as remixes and a network feature that allows sharing playlists, showcasing listening statistics among users, and intelligent genre discovery.  Moreover, TTMMS plans to offer versatile sound-shaping options, allowing users to tailor their music to their preferences by adjusting audio settings such as bass, treble, and tempo. These personalized settings are envisioned to be saved and persist across playbacks, ensuring a consistent and optimized audio experience without permanently modifying the original music files.  Finally, TTMMS intends to go beyond simple randomized music recommendation systems by harnessing intelligent methods to suggest new music genres based on the user’s existing music collection, fostering meaningful musical exploration and discovery.
 
@@ -24,30 +24,36 @@ The success of TTMMS will be measured by conducting a comprehensive user survey,
 
 ## TTMMS v3.0.0 Features
 
-### Song Search
-
-### Search Filter
+### Song Search & Filter
+The ability for users to search for songs filtered by song name, artist, or genre.
+{% include embed/youtube.html id='HyZA082Js9c' %}
 
 ### Add/Remove Songs
+The ability for users to add or remove songs from their music library.
+{% include embed/youtube.html id='veFU9F5T_Cc' %}
 
 ### Listening Statistics
+The ability for users to view tracked listening statistics of each song.
+{% include embed/youtube.html id='g4MAfDaXNBo' %}
 
 ### Playlist Creation
+The ability for users to create personalized playlists.
+{% include embed/youtube.html id='2u47CyFr0PQ' %}
 
 ### Music Queue
-
-### Play Music
-
-### Basic Music Player Functions
+The ability for users to add songs to a queue of continually playing music.
+{% include embed/youtube.html id='nUs6X-VgG7I' %}
 
 ### Favourites Playlist
+The ability for users to have a playlist that contains all their favourite songs.
+{% include embed/youtube.html id='PeD-VLEnbGE' %}
 
 ### Song Library Overview
+The ability for users to receive a detailed informational breakdown of their song library.
+{% include embed/youtube.html id='jjpA9Il7SUk' %}
 
 ## Future Features
-
 Stay tuned for these following features in a future release:
-
 - Audio Settings Customization
 - Location-based Listening Statistics
 - Genre Recommendation
@@ -58,7 +64,9 @@ Stay tuned for these following features in a future release:
 
 ### How did the project change from your initial (iteration 0) vision or stories, or did it work out as predicted?
 
-Throughout the course of the project, we observed several changes from our initial vision and stories outlined in Iteration 0. At the outset, after conducting extensive research, we found that all the intended features for the Tech Titans Music Management System (TTMMS) were feasible to implement in an offline setting. However, as we delved deeper into the development process, we encountered the dynamic nature of the speed at which progress moves, which differed significantly from our initial expectations.
+{% include embed/youtube.html id='lPDxJdj9HBM' %}
+
+Throughout the course of the project, we observed several changes from our initial vision and stories outlined in Iteration 0. At the outset, after conducting extensive research, we found that all the intended features of the Tech Titans Music Management System (TTMMS) were feasible to implement in an offline setting. However, as we delved deeper into the development process, we encountered the dynamic nature of the speed at which progress moves, which differed significantly from our initial expectations.
 
 One significant aspect that consumed more time than anticipated was the administrative tasks associated with project management, including documentation, user stories, feature implementation, and development tasks. These essential elements demanded meticulous attention and dedication, leading to a longer development timeline.
 
@@ -71,6 +79,8 @@ Despite our best efforts, certain challenges emerged due to time constraints and
 The journey of developing TTMMS proved to be a valuable learning experience. We gained insights into the dynamic nature of development processes, the importance of thorough testing, and the need to design applications with future collaboration in mind. While some features were postponed, we remain committed to achieving a comprehensive and well-polished final product through ongoing teamwork and dedication.
 
 ### What did you learn about team or large project development? What will you start doing, keep doing, or stop doing next time?
+
+{% include embed/youtube.html id='NbwZSiyvfrw' %}
 
 Throughout the course of this project, we gained valuable insights into team and large project development. One of the key lessons we learned was the importance of adopting a thorough and meticulous approach from the project's inception. Although it might seem like more work initially, investing time and effort in laying a solid foundation pays off significantly in the long run. We encountered instances where rushed decisions led to technical debt, resulting in poorly designed code and a subsequent need for extensive refactoring to align with SOLID programming principles.
 
